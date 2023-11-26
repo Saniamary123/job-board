@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Job board</title>
+    <title></title>
 </head>
 <body>
    <center>
